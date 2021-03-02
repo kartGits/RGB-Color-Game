@@ -3,7 +3,7 @@ The Web Developer Bootcamp project - **Colt Steele**'s RGB Color Game (for learn
 
 # Usage
 <pre>
-<code> git clone _<this-repo>_
+<code> git clone **<this-repo>**
 
 firefox colorgame.html
   </code>
