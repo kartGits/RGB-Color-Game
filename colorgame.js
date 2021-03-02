@@ -1,5 +1,6 @@
 //Math.random selects any random number from given limit
 // Math.floor removes everything after the decimal
+
  var numSquares = 6;  
  var colors = generateRandomColors(numSquares);    // to generate color for every box 
  
