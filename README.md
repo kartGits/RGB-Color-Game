@@ -1,7 +1,7 @@
 # RGB-Color-Game
-The Web Developer Bootcamp project - **Colt Steele**'s RGB Color Game (for learning purpose).
 
-![RGB SS] (https://raw.githubusercontent.com/kartGits/RGB-Color-Game/main/rgb.png)
+![RGB SS](https://raw.githubusercontent.com/kartGits/RGB-Color-Game/main/rgb.png)
+The Web Developer Bootcamp project - **Colt Steele**'s RGB Color Game (for learning purpose).
 
 # Usage
 <pre>
